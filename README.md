@@ -1,2 +1,2 @@
 # OpenSourceSetups.x10.mx
-A reposutory of the iRacing NASCAR setups available on the web site OpenSourceSetups.x10.mx and it's mirror OpenSetups.ml
+A repository of the iRacing NASCAR setups available on the web site OpenSourceSetups.x10.mx and it's mirror OpenSetups.ml
