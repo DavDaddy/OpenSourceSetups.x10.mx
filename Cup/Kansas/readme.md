@@ -1,1 +1,1 @@
-*See the notes inside of the setup file 233-DavidHoskins-Kansas-DX.sto.
+*See the notes inside of the setup file 233-DavidHoskins-Kansas-DX.sto.  Actually after further testing 224-DavidHoskins-Kansas-DavRace.sto is the better setup, it just doesn't like to run the top early especially in 1 & 2.  
