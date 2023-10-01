@@ -1,4 +1,4 @@
-***234-Talladega-DavRace-alt is an alternative setup to DavRace above. Duh!  It does better leading but doesn't get monster runs like the original.  See the notes in the garage in sim for details and credit to the original creator.  You can't go wrong; either of these setups both are race winners!
+***234-Talladega-DavRace-alt is an alternative setup to DavRace above. Duh!  It does better leading but doesn't get monster runs like the original.  See the notes in the garage in sim for details and credit to the original creator.  You can't go wrong with either of these setups, both are race winners!
 
 **234-Talladega-DavRace, Just got 4th in a 2600 split NIS race with this set. Read the notes in the garage in sim! 
 
